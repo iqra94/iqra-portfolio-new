@@ -3,7 +3,7 @@
 
 - LANDING PAGE https://iqra94.github.io/iqra-portfolio-new/#portfolio
 
-- SPRINGBOOT WEB APP http://springboot-crud.iqra-dev.my.id/ShopmeAdmin
+- SPRINGBOOT WEB APP http://springboot-mvc.iqra-dev.my.id/ShopmeAdmin
 admin1@gmail.com 12345678
 
 - LARAVEL8 WEB APP https://laravel8-blog.Iqraregera.com/unpas-posts
