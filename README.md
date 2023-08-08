@@ -6,8 +6,7 @@
 - SPRINGBOOT WEB APP http://springboot-mvc.iqra-dev.my.id/ShopmeAdmin
 admin1@gmail.com 12345678
 
-- LARAVEL8 WEB APP https://laravel8-blog.Iqraregera.com/unpas-posts
-kira@gmail.com 12345
+- LARAVEL8 WEB APP http://blog-laravel.iqra-dev.my.id/unpas-posts
 
 - CODEIGNITER3 WEB APP https://ci3-auth-app.iqraregera.com
 admin1@gmail.com 1234
